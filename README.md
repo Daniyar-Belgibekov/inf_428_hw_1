@@ -1,1 +1,6 @@
-# inf_428_hw_1
+# Homework 1
+DAY 1: 
+
+DAY 2:
+
+DAY 3:
